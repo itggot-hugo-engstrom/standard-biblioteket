@@ -3,4 +3,3 @@ def previous_number(num)
     return num
 end
 
-puts previous_number(4)
